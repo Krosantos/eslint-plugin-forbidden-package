@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-forbidden-package",
+  "version": "0.0.1",
+  "description": "An eslint rule to explicitly blacklist packages.",
+  "main": "index.js",
+  "repository": "git@github.com:Krosantos/eslint-plugin-forbidden-package.git",
+  "author": "Tymko Tecca <tymko.tecca@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "opinionated",
+    "import",
+    "packages"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "2.x - 6.x"
+  }
+}
